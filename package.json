@@ -1,0 +1,14 @@
+{
+  "name": "copay-shots",
+  "version": "0.0.1",
+  "description": "I was too lazy to manually take the screenshots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chainfailure",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.1.1"
+  }
+}
